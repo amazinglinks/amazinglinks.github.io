@@ -47,9 +47,11 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Learning C++
 - Mostly fixes bugs, sometimes adds pages
 - Getting tired of fixing Bahabryra's grammar
+- Classboard Support guy
 - Scratch account with over 100 followers
 - https://scratch.mit.edu/users/SprintingSnail/
-- Have a good day :3
+- That's about it
+- # byeeeeeee
 - Joined September 2024
 
 ### Edwardshs
