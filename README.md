@@ -51,7 +51,7 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Scratch account with over 100 followers
 - https://scratch.mit.edu/users/SprintingSnail/
 - That's about it
-- # byeeeeeee
+  # byeeeeeee
 - Joined September 2024
 
 ### Edwardshs
