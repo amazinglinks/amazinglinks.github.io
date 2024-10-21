@@ -1,12 +1,17 @@
 body {
   background-color: #1d1d1d;
   color: white;
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 @font-face {
   font-family: Rubik;
   src: url(/fonts/rubik.ttf);
+}
+
+@font-face {
+  font-family: Google Sans;
+  src: url(/fonts/GoogleSansMedium.ttf);
 }
 
 nav {
@@ -18,7 +23,7 @@ nav {
   border-radius: 100px;
   box-shadow: 0 0 8px black;
   font-weight: 500;
-  font-family: Rubik;
+  font-family: Google Sans;
 }
   
 nav ul {
@@ -32,7 +37,7 @@ nav li {
   display: inline-block;
   margin-right: 1rem;
   position: relative;
-  font-family: Rubik;
+  font-family: Google Sans;
   font-size: 1.2rem;
   font-weight: 500;
 }
@@ -42,7 +47,7 @@ nav a {
   text-decoration: none;
   position: relative;
   overflow: hidden;
-  font-family: Rubik;
+  font-family: Google Sans;
   font-weight: 500;
 }
   
@@ -83,7 +88,7 @@ nav a:hover::after {
 }
 
 .home-title {
-  font-family: Rubik;
+  font-family: Google Sans;
   font-size: 65px;
 }
 
@@ -204,7 +209,7 @@ nav a:hover::after {
   justify-content: center;
   display: flex;
   transition: 0.4s;
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 .card:hover {
@@ -212,7 +217,7 @@ nav a:hover::after {
 }
 
 h1.cardtext {
-  font-family: Rubik;
+  font-family: Google Sans;
   font-size: 40px;
 }
 
@@ -221,7 +226,7 @@ button.inner {
   border-radius: 10000px;
   height: 50px;
   width: 200px;
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 
@@ -231,7 +236,7 @@ button.inner {
   margin-left: 10px;
   margin-right: 10px;
   transition: 0.2s;
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 .game-card img {
@@ -253,7 +258,7 @@ button.inner {
   border-bottom-left-radius: 20px;
   border-bottom-right-radius: 20px;
   max-width: 130px;
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 .game-card:hover .game-title-overlay {
@@ -269,7 +274,7 @@ button.inner {
   display: block; /* Makes the title span take up the full width */
   text-align: center; /* Centers the text */
   font-weight: medium; /* Makes the title bold */
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 .title {
@@ -282,25 +287,56 @@ button.inner {
 }
 
 html {
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 h1 {
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 p {
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 h2 {
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 button {
-  font-family: Rubik;
+  font-family: Google Sans;
 }
 
 a {
-  font-family: Rubik;
+  font-family: Google Sans;
+}
+
+.to {
+  height: 225px;
+  width: 175px;
+  border-radius: 25px;
+  border: none;
+  background: #585858;
+  box-shadow: 0 0 10px #585858;
+  transition: 0.2s ease-in-out;
+}
+
+.to:hover {
+  scale: 105%;
+  background-color: #b1b1b1;
+  box-shadow: 0 0 25px white;
+}
+
+.to:before {
+  background: linear-gradient(45deg, red, orange, yellow, lime, green, blue, purple, magenta);
+  position: absolute;
+  background-size: 400%;
+  z-index: -1;
+  width: calc(100%+10px);
+  height: calc(100%+10px);
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+
+.to:hover:before {
+  opacity: 1;
 }
