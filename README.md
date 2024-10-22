@@ -60,6 +60,6 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Joined in January 2024
 
 
-## Send a pull request or join the team [here](https://docs.google.com/forms/d/e/1FAIpQLSd5DOQOenGS5Z1AhjtbocqTurH0XRIVe6oNo8_u9IRyKah8zQ/viewform)if you wanna help
+## Send a pull request or join the team [here](https://docs.google.com/forms/d/e/1FAIpQLSd5DOQOenGS5Z1AhjtbocqTurH0XRIVe6oNo8_u9IRyKah8zQ/viewform) if you wanna help
 #### Dont read the commits, okay!
 ### byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
