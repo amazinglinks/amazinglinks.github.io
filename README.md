@@ -33,7 +33,7 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Just helps with background stuff, nothing big (as of right now >:) hehe ) 
 - Also a Classboard Support guy
 - Has grammar so bad that bro needs SprintingSnail's help
-- Also has Scratch profile 
+- Also has a Scratch profile ⬇ 
 - https://scratch.mit.edu/users/bahabryra
 - Knows HTML, CSS, Basic JavaScript, and Python
 - Bug fixes sometimes
@@ -48,7 +48,7 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Mostly fixes bugs, sometimes adds pages
 - Getting tired of fixing Bahabryra's grammar
 - Classboard Support guy
-- Scratch account with over 100 followers
+- Scratch account with over 100 followers ⬇ 
 - https://scratch.mit.edu/users/SprintingSnail/
 - That's about it
   # byeeeeeee
@@ -60,6 +60,6 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 - Joined in January 2024
 
 
-## Send a pull request if u wanna help btw.
+## Send a pull request or join the team [here](https://docs.google.com/forms/d/e/1FAIpQLSd5DOQOenGS5Z1AhjtbocqTurH0XRIVe6oNo8_u9IRyKah8zQ/viewform)if you wanna help
 #### Dont read the commits, okay!
 ### byeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee
