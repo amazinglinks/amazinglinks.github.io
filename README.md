@@ -41,8 +41,8 @@ A great link hub to get places fast! We have Google stuff, other resources, game
 ### SprintingSnail
 - Developer
 - Knows intermediate HTML and CSS, now improving knowledge
-- Learning C++
-- Mostly fixes bugs, sometimes adds pages
+- Learning JavaScript
+- Mostly debugs and helps out
 - Getting tired of fixing Bahabryra's grammar
 - Classboard Support guy
 - Scratch account with over 100 followers ⬇ 
